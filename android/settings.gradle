@@ -1,0 +1,3 @@
+rootProject.name = 'android_visibility_issue'
+
+include ':app'
